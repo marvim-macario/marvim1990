@@ -10,7 +10,7 @@
 
 ## ⚡ Sobre mim
 
-Tenho 30 anos de idade, moro em São Paulo, e estou cursanso Análise e Desenvolvimento de Sistemas. Estou em transição de carreira, trabalhei por 10 anos como mecânico de manutenção, mais a paixão por solução de problemas trouxeram-me até a programação, e agora estou me desenvolvendo e buscando uma oportunidade no mercado de trabalho na área de desenvolvimento web.
+Tenho 30 anos de idade, moro em São Paulo, e estou cursanso Análise e Desenvolvimento de Sistemas. Estou em transição de carreira, trabalhei por 10 anos como mecânico de manutenção, porém a paixão por solução de problemas trouxeram-me até a programação, e agora estou me desenvolvendo e buscando uma oportunidade no mercado de trabalho na área de desenvolvimento web.
 
 ### 🔭 Objetivos
 
